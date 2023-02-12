@@ -13,3 +13,4 @@ This is just a sample react application for me to understand  various concepts o
 - Javascript
 - Theme designing - various dark modes
 - Router concept - without reloading switch between pages.
+- Custom Favicon change
