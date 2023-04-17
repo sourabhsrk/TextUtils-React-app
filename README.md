@@ -14,3 +14,6 @@ This is just a sample react application for me to understand  various concepts o
 - Theme designing - various dark modes
 - Router concept - without reloading switch between pages.
 - Custom Favicon change
+
+## Screenshot
+![Textutils](https://user-images.githubusercontent.com/47951316/232627164-48a05f0b-e45e-43fe-a9d9-c17166e447e9.png)
